@@ -35,7 +35,7 @@ The audit of the raw dataset labels confirmed significant pre-existing disparity
 | **part3\_audit\_report.md** | Part 3 | 300-word summary of the audit findings, remediation steps, and FPR disparity. |
 | **part3\_practical\_audit.ipynb** | Part 3 | Working Python code for data loading, preprocessing, and metric calculation (DIR). |
 | **part4\_ethical\_reflection.md** | Part 4 | Reflection on ethical adherence for a Predictive Maintenance Model (Civil Engineering Focus). |
-| **bonus\_ai\_healthcare\_policy.md** | Bonus Task (10%) | 1-page guideline for ethical AI use in healthcare (Consent, Bias, Transparency). |
+| **bonus\_ai\_healthcare\_policy.md** | Bonus Task | 1-page guideline for ethical AI use in healthcare (Consent, Bias, Transparency). |
 
 ---
 
