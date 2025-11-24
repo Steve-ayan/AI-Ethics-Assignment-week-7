@@ -30,11 +30,11 @@ The audit of the raw dataset labels confirmed significant pre-existing disparity
 
 | File/Section | Assignment Part | Description |
 | :--- | :--- | :--- |
-| **part1\_theory\_answers.md** | Part 1 (30%) | Definitions of bias, transparency vs. explainability, and GDPR impact. |
-| **part2\_case\_studies.md** | Part 2 (40%) | Analysis and remediation proposals for the Biased Hiring Tool and Facial Recognition cases. |
-| **part3\_audit\_report.md** | Part 3 (25%) | 300-word summary of the audit findings, remediation steps, and FPR disparity. |
-| **part3\_practical\_audit.ipynb** | Part 3 (25%) | Working Python code for data loading, preprocessing, and metric calculation (DIR). |
-| **part4\_ethical\_reflection.md** | Part 4 (5%) | Reflection on ethical adherence for a Predictive Maintenance Model (Civil Engineering Focus). |
+| **part1\_theory\_answers.md** | Part 1 | Definitions of bias, transparency vs. explainability, and GDPR impact. |
+| **part2\_case\_studies.md** | Part 2 | Analysis and remediation proposals for the Biased Hiring Tool and Facial Recognition cases. |
+| **part3\_audit\_report.md** | Part 3 | 300-word summary of the audit findings, remediation steps, and FPR disparity. |
+| **part3\_practical\_audit.ipynb** | Part 3 | Working Python code for data loading, preprocessing, and metric calculation (DIR). |
+| **part4\_ethical\_reflection.md** | Part 4 | Reflection on ethical adherence for a Predictive Maintenance Model (Civil Engineering Focus). |
 | **bonus\_ai\_healthcare\_policy.md** | Bonus Task (10%) | 1-page guideline for ethical AI use in healthcare (Consent, Bias, Transparency). |
 
 ---
